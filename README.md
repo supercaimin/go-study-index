@@ -96,7 +96,7 @@ Go 语言学习资料与社区索引
 	- [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 	- [《Go语言学习笔记》](https://github.com/qyuhen/book)
 - 翻译：
-	- [Effective Go](https://golang.org/doc/effective_go.html) 中文版(https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
+	- [Effective Go](https://golang.org/doc/effective_go.html) [中文版](https://bingohuang.gitbooks.io/effective-go-zh-en/content/)
 	- [The Way to Go](https://github.com/Unknwon/the-way-to-go_ZH_CN) 中文版
 	- [《Learning Go》](https://github.com/miekg/gobook)英文版:=>[《Learning Go》](https://github.com/mikespook/Learning-Go-zh-cn) 中文版
 - 教程：
